@@ -1,0 +1,8 @@
+npm run serve
+
+This dependency was not found: * @/components/eventbus/Product.vue in. ~~~~~ << 이런식으로 오류가 발생했다.
+
+npm install 후에도 실행이 안됨
+product.vue -> Product.vue로 바꿔줌
+
+실행됨 ㅅㄱ
